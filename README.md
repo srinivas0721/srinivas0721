@@ -160,15 +160,16 @@ A comprehensive collection of optimized C++ templates and data structure impleme
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinivas0721&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=srinivas0721&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srinivas0721&theme=radical&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivas0721&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas0721&layout=compact&theme=radical&hide_border=true&langs_count=8)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas0721&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
+
 
 ---
 
