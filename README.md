@@ -1,175 +1,147 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Codeforces+Specialist+🔥;CodeChef+3⭐+Coder;ML+%26+AI+Engineer;Full+Stack+Developer;Amazon+ML+Scholar+2025" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<h1 align="center">👋 Hey there! I'm <a href="https://github.com/srinivas0721">Srinivas Prabhu</a></h1>
+# 👋 Srinivas Prabhu
 
-<p align="center">
-  <a href="https://github.com/srinivas0721"><img src="https://img.shields.io/github/followers/srinivas0721?style=social" /></a>
-  <a href="https://github.com/srinivas0721"><img src="https://img.shields.io/github/stars/srinivas0721?style=social" /></a>
-  <a href="https://linkedin.com/in/srinivas-prabhu-910978290"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" /></a>
-</p>
+### Machine Learning Engineer | Competitive Programmer | Full Stack Developer
 
----
+[![Amazon ML Scholar](https://img.shields.io/badge/Amazon%20ML%20Scholar-2025-FF9900?style=flat&logo=amazon&logoColor=white)](https://www.amazon.science/latest-news/amazon-announces-the-recipients-of-the-2024-amazon-ml-summer-school-scholarship)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/srini_0721)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3★-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/srini_0721)
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/srinivas-prabhu-910978290)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/srinivas0721)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/srinivas0721)
 
-```python
-class SrinivasPrabhu:
-    def __init__(self):
-        self.username = "srinivas0721"
-        self.education = "B.Tech ECE @ IIIT Una"
-        self.cgpa = 8.92
-        self.role = "ML Engineer & Competitive Programmer"
-        self.location = "Una, Himachal Pradesh"
-        self.achievements = [
-            "Amazon ML Summer School 2025 Scholar",
-            "Codeforces Specialist (srini_0721)",
-            "CodeChef 3⭐ (srini_0721)",
-            "Ranked 1181 in CodeFest'25 Prelims"
-        ]
-        
-    def current_focus(self):
-        return ["Deep Learning", "NLP", "LangChain", "System Design"]
-    
-    def say_hi(self):
-        print("Building intelligent systems, one algorithm at a time! 🚀")
-
-me = SrinivasPrabhu()
-me.say_hi()
-```
-
-🎓 B.Tech in Electronics & Communication Engineering @ IIIT Una (CGPA: 8.92/10)
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 About Me
 
-### 💻 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+B.Tech in Electronics & Communication Engineering at **IIIT Una** (2023-2027) | CGPA: **8.92/10**
 
-### 🤖 Machine Learning & AI
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-</p>
+I'm a passionate ML engineer and competitive programmer who loves building intelligent systems and solving complex problems. Currently exploring deep learning, NLP, and system design while maintaining an active competitive programming profile.
 
-### 📊 Data Science & Visualization
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
-### ⚙️ Frameworks & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+**Current Focus:** Deep Learning • Natural Language Processing • LangChain • System Design
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=srinivas0721&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas0721&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivas0721&theme=tokyonight&hide_border=true" />
-</p>
+- 🎖️ **Amazon ML Summer School 2025 Scholar** - Selected among top candidates nationwide
+- 🔥 **Codeforces Specialist** (Rating: 1400+) - Username: srini_0721
+- ⭐ **CodeChef 3-Star** - Active problem solver with 500+ problems solved
+- 🏅 **CodeFest'25 Rank 1181** - Competed against top talent (HRT, Jump Trading, Jane Street, Citadel)
 
 ---
 
-## 🏆 Featured Projects
+## 💻 Technical Skills
 
-| Project | Description |
-|---------|-------------|
-| **InterviewBot** | 🤖 End-to-end ML workflow for automated interview evaluation (LangChain + LangGraph + FastAPI + PostgreSQL) |
-| **Book Recommender System** | 📚 Semantic book recommendation with Sentence-BERT + FAISS |
-| **Universal CP Assistant** | 🧠 AI Chrome Extension for competitive programming |
-| **Spam Detection System** | 🛡️ NLP-based spam classifier using ML models |
-| **CP Template** | ⚡ C++ templates optimized for competitive programming |
+**Languages**  
+`C++` `Python` `JavaScript` `TypeScript` `SQL`
 
----
+**Machine Learning & AI**  
+`PyTorch` `TensorFlow` `scikit-learn` `LangChain` `LangGraph` `Hugging Face`
 
-## 🎯 Competitive Programming
+**Data Science**  
+`NumPy` `Pandas` `Matplotlib` `Seaborn` `Plotly` `FAISS`
 
-<p align="center">
-  <a href="https://codeforces.com/profile/srini_0721"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/srini_0721"><img src="https://img.shields.io/badge/CodeChef-3⭐-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="https://leetcode.com/srinivas0721"><img src="https://img.shields.io/badge/LeetCode-Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-</p>
+**Frameworks & Tools**  
+`FastAPI` `Streamlit` `PostgreSQL` `Git` `Jupyter` `Docker`
 
-- 🥇 Codeforces Specialist
-- ⭐ CodeChef 3-Star
-- 🏆 CodeFest'25 Rank 1181 (HRT, Jump Trading, Jane Street, Citadel)
-- 💻 Solved 500+ problems across platforms
+**NLP & Deep Learning**  
+`Transformers` `BERT` `Sentence-BERT` `RAG` `Vector Databases`
 
 ---
 
-## 🎓 Education & Achievements
+## 🚀 Featured Projects
 
-| 🎓 Education | 🏆 Achievements |
-|--------------|-----------------|
-| **IIIT Una (ECE, 2023–2027)**<br>CGPA: 8.92/10 | ✅ Amazon ML Summer School 2025 Scholar<br>🔥 Codeforces Specialist<br>⭐ CodeChef 3⭐<br>🏅 CodeFest'25 Rank 1181 |
+### 🤖 InterviewBot
+End-to-end ML workflow for automated interview evaluation using LangChain, LangGraph, FastAPI, and PostgreSQL. Implements advanced RAG techniques for intelligent question generation and response analysis.
 
----
+**Tech Stack:** `LangChain` `LangGraph` `FastAPI` `PostgreSQL` `OpenAI`
 
-## 💼 Roles & Responsibilities
+### 📚 Book Recommender System
+Semantic search-based book recommendation engine using Sentence-BERT embeddings and FAISS for efficient similarity search.
 
-| Organization | Role | Description |
-|--------------|------|-------------|
-| **EUNOIA** | Member | Literary & Dramatics Club, IIIT Una |
-| **AAVESH** | Public Relations Head | Electronics Club, IIIT Una |
+**Tech Stack:** `Sentence-BERT` `FAISS` `Streamlit` `Python`
 
----
+### 🧠 Universal CP Assistant
+AI-powered Chrome Extension that assists competitive programmers with problem-solving strategies and code optimization.
 
-## 📈 Contribution Activity
+**Tech Stack:** `JavaScript` `Chrome API` `OpenAI` `LangChain`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas0721&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+### 🛡️ Spam Detection System
+NLP-based spam classifier with 95%+ accuracy using multiple ML models and ensemble techniques.
 
----
+**Tech Stack:** `scikit-learn` `NLTK` `Pandas` `Flask`
 
-## 💡 Dev Quote & Trophies
+### ⚡ CP Template Library
+Optimized C++ templates and data structure implementations for competitive programming with focus on speed and efficiency.
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srinivas0721&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
+**Tech Stack:** `C++` `STL` `Algorithms`
 
 ---
 
-## 👁️ Profile Views
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/srinivas0721/count.svg" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinivas0721&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-<p align="center">
-  💙 <i>Thanks for visiting! Let's connect and build something amazing together!</i> 🚀
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srinivas0721&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas0721&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 📈 Competitive Programming Stats
+
+<div align="center">
+
+| Platform | Rating/Stars | Problems Solved | Profile |
+|----------|-------------|-----------------|---------|
+| **Codeforces** | Specialist (1400+) | 200+ | [srini_0721](https://codeforces.com/profile/srini_0721) |
+| **CodeChef** | 3⭐ (1600+) | 150+ | [srini_0721](https://www.codechef.com/users/srini_0721) |
+| **LeetCode** | Active | 150+ | [srinivas0721](https://leetcode.com/srinivas0721) |
+
+</div>
+
+---
+
+## 🎯 Leadership & Extracurriculars
+
+**EUNOIA** - Member  
+Literary & Dramatics Club, IIIT Una
+
+**AAVESH** - Public Relations Head  
+Electronics Club, IIIT Una - Leading outreach initiatives and managing club communications
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to collaborating on interesting projects, discussing ML/AI, or helping with competitive programming!
+
+- 💼 LinkedIn: [srinivas-prabhu-910978290](https://linkedin.com/in/srinivas-prabhu-910978290)
+- 🐙 GitHub: [srinivas0721](https://github.com/srinivas0721)
+- 💻 Codeforces: [srini_0721](https://codeforces.com/profile/srini_0721)
+- 🍳 CodeChef: [srini_0721](https://www.codechef.com/users/srini_0721)
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+**Thanks for visiting!** ⭐ Star my repositories if you find them interesting!
+
+![Visitor Count](https://profile-counter.glitch.me/srinivas0721/count.svg)
+
+</div>
