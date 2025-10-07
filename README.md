@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/srinivas-prabhu-910978290)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/srinivas0721)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/srinivas0721)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/srini0721)
 
 </div>
 
@@ -105,7 +105,7 @@ Optimized C++ templates and data structure implementations for competitive progr
 |----------|-------------|-----------------|---------|
 | **Codeforces** | Specialist (1400+) | 200+ | [srini_0721](https://codeforces.com/profile/srini_0721) |
 | **CodeChef** | 3⭐ (1600+) | 150+ | [srini_0721](https://www.codechef.com/users/srini_0721) |
-| **LeetCode** | Active | 150+ | [srinivas0721](https://leetcode.com/srinivas0721) |
+| **LeetCode** | Active | 150+ | [srinivas0721](https://leetcode.com/srini0721) |
 
 </div>
 
