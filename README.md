@@ -78,7 +78,6 @@ An intelligent interview automation system that revolutionizes candidate evaluat
 - **Production-Ready**: Complete end-to-end ML workflow from question generation to candidate evaluation
 
 **Technical Highlights:**
-- Implemented RAG (Retrieval-Augmented Generation) for context-aware questioning
 - Designed efficient database schemas for session persistence and analytics
 - Created RESTful APIs for seamless frontend-backend communication
 
