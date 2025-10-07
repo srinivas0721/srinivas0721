@@ -2,7 +2,7 @@
 
 # 👋 Srinivas Prabhu
 
-### Machine Learning Engineer | Competitive Programmer | Full Stack Developer
+### Machine Learning Engineer | Competitive Programmer | Backend Developer
 
 [![Amazon ML Scholar](https://img.shields.io/badge/Amazon%20ML%20Scholar-2025-FF9900?style=flat&logo=amazon&logoColor=white)](https://www.amazon.science/latest-news/amazon-announces-the-recipients-of-the-2024-amazon-ml-summer-school-scholarship)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/srini_0721)
