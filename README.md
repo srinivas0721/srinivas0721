@@ -39,16 +39,7 @@ me = SrinivasPrabhu()
 me.say_hi()
 ```
 
-🎓 **B.Tech in Electronics & Communication Engineering** @ IIIT Una (CGPA: 8.92/10)  
-🏆 **Amazon ML Summer School 2025** - Selected among top students nationwide  
-🔥 **Codeforces Specialist** | **CodeChef 3⭐** (Working towards 4⭐)  
-🌟 **CodeFest'25 Rank 1181** (IICPC - HRT, Jump Trading, Jane Street, Citadel)
-
-- 🔭 Currently building **AI-powered interview systems** and **semantic search engines**
-- 🌱 Learning **Advanced ML techniques, LangChain/LangGraph, System Design**
-- 💬 Ask me about **CP, ML/DL, NLP, FastAPI, LangChain**
-- 📫 Reach me: **srinivasprabhu557@gmail.com**
-- ⚡ Fun fact: **I debug code faster than I solve a Rubik's cube!**
+🎓 **B.Tech in Electronics & Communication Engineering** @ IIIT Una (CGPA: 8.92/10)
 
 ---
 
