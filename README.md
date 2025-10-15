@@ -255,7 +255,7 @@ I'm always excited to discuss ML/AI, competitive programming, or collaborate on 
 
 **Thanks for visiting!** ⭐ Star my repositories if you find them interesting!
 
-![Visitor Count](https://profile-counter.glitch.me/srinivas0721/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=srinivas0721&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 *Last Updated: October 2025*
 
